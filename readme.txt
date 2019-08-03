@@ -5,3 +5,5 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 new file add words someword
 new boos
+new line
+new line 2
